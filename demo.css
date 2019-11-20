@@ -44,10 +44,10 @@ img.bg {
 
 .decall{
   font-family: 'Muli', sans-serif;
-  color: #5f2265;
+  color: #d03088;
   letter-spacing: 2px;
-
-  font-size: 2rem;
+  font-size: 2.25rem;
+  font-weight: 900;
 }
 .btn{
   background-color: #ffffff;
